@@ -1,2 +1,2 @@
-# JogoSan
-JogoPygameSan
+# helicopter-game
+# Sangiorgiovba@gmail.com
